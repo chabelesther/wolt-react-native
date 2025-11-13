@@ -30,16 +30,7 @@ A feature-rich React Native clone of the Wolt food delivery app, showcasing mode
 - [MMKV](https://github.com/mrousavy/react-native-mmkv/tree/main) - The fastest key/value storage for React Native
 - [Sentry](https://dub.sh/trysentry) - Error tracking and performance monitoring
 
-## Video Tutorial
-
-Watch and build this Wolt Clone step by step:
-
-<p align="center">
-  <a href="https://youtu.be/aYftPYZJsy8" target="_blank">
-    <img src="https://img.youtube.com/vi/aYftPYZJsy8/maxresdefault.jpg" alt="Build a Wolt Clone with React Native" width="100%" />
-  </a>
-</p>
-
+ 
 ## Getting Started
 
 ### Prerequisites
@@ -212,20 +203,4 @@ assets/                 # Images and static files
 - User profile management
 - Smooth page transitions and animations
 
-## Sponsors
-
-### Sentry
-
-[Sentry](https://dub.sh/trysentry) provides real-time error tracking and performance monitoring that helps developers see what actually matters, solve issues faster, and learn continuously about their applications.
-
-### CodeRabbit
-
-[CodeRabbit](https://coderabbit.link/simon) offers AI-powered code reviews that provide instant feedback, catch bugs early, and help maintain code quality across your entire team.
-
-## 🚀 Learn More
-
-**Take a shortcut from web developer to mobile development fluency with guided learning**
-
-Enjoyed this project? Learn to use React Native to build production-ready, native mobile apps for both iOS and Android based on your existing web development skills.
-
-<a href="https://galaxies.dev?utm_source=simongrimm&utm_medium=github&vid=pocket-clone"><img src="banner.png" height="auto" width="100%"></a>
+ 
